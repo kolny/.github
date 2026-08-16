@@ -6,10 +6,10 @@
   <a href="https://kolny.fi"><img src="https://img.shields.io/badge/site-kolny.fi-B6E04A?style=flat-square" alt="Site"></a>
   <a href="https://x.com/kolnyfi"><img src="https://img.shields.io/badge/X-@kolnyfi-E4E0D2?style=flat-square&logo=x&logoColor=0E0F0C" alt="X"></a>
   <a href="https://api.kolny.fi/docs"><img src="https://img.shields.io/badge/api-kolny.fi-3E5A44?style=flat-square" alt="API"></a>
-  <a href="https://github.com/kolny/kolny"><img src="https://img.shields.io/badge/specification-5%20documents-B6E04A?style=flat-square" alt="Specification"></a>
-  <a href="https://github.com/kolny/kolny"><img src="https://img.shields.io/badge/program-devnet%20only-D08A2C?style=flat-square" alt="Program status"></a>
-  <a href="https://github.com/kolny/kolny"><img src="https://img.shields.io/badge/chain-solana-5C4B3A?style=flat-square&logo=solana&logoColor=B6E04A" alt="Chain"></a>
-  <a href="https://github.com/kolny/kolny/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-E4E0D2?style=flat-square" alt="License MIT"></a>
+  <a href="https://github.com/kolny-labs/kolny"><img src="https://img.shields.io/badge/specification-5%20documents-B6E04A?style=flat-square" alt="Specification"></a>
+  <a href="https://github.com/kolny-labs/kolny"><img src="https://img.shields.io/badge/program-devnet%20only-D08A2C?style=flat-square" alt="Program status"></a>
+  <a href="https://github.com/kolny-labs/kolny"><img src="https://img.shields.io/badge/chain-solana-5C4B3A?style=flat-square&logo=solana&logoColor=B6E04A" alt="Chain"></a>
+  <a href="https://github.com/kolny-labs/kolny/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-E4E0D2?style=flat-square" alt="License MIT"></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ that leads to it.
 
 | | |
 |---|---|
-| [**kolny/kolny**](https://github.com/kolny/kolny) | Protocol specification, the Anchor program source, and the generated IDL |
+| [**kolny-labs/kolny**](https://github.com/kolny-labs/kolny) | Protocol specification, the Anchor program source, and the generated IDL |
 
 The specification is five documents: architecture, the allocation model, the
 risk model, the security model, and the citations behind them. The allocation
@@ -85,5 +85,5 @@ instead of being left out of it.
   &nbsp;&middot;&nbsp;
   <a href="https://api.kolny.fi/docs">API</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://github.com/kolny/kolny">Specification</a>
+  <a href="https://github.com/kolny-labs/kolny">Specification</a>
 </p>
