@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://kolny.fi"><img src="https://img.shields.io/badge/site-kolny.fi-B6E04A?style=flat-square" alt="Site"></a>
-  <a href="https://x.com/kolnyfi"><img src="https://img.shields.io/badge/X-@kolnyfi-E4E0D2?style=flat-square&logo=x&logoColor=0E0F0C" alt="X"></a>
+  <a href="https://x.com/kolnydotfi"><img src="https://img.shields.io/badge/X-@kolnydotfi-E4E0D2?style=flat-square&logo=x&logoColor=0E0F0C" alt="X"></a>
   <a href="https://api.kolny.fi/docs"><img src="https://img.shields.io/badge/api-kolny.fi-3E5A44?style=flat-square" alt="API"></a>
   <a href="https://github.com/kolny-labs/kolny"><img src="https://img.shields.io/badge/specification-5%20documents-B6E04A?style=flat-square" alt="Specification"></a>
   <a href="https://github.com/kolny-labs/kolny"><img src="https://img.shields.io/badge/program-devnet%20only-D08A2C?style=flat-square" alt="Program status"></a>
@@ -81,7 +81,7 @@ instead of being left out of it.
 <p align="center">
   <a href="https://kolny.fi">kolny.fi</a>
   &nbsp;&middot;&nbsp;
-  <a href="https://x.com/kolnyfi">@kolnyfi</a>
+  <a href="https://x.com/kolnydotfi">@kolnydotfi</a>
   &nbsp;&middot;&nbsp;
   <a href="https://api.kolny.fi/docs">API</a>
   &nbsp;&middot;&nbsp;
